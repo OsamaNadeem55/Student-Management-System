@@ -1,1 +1,1 @@
-# hello
+# Student Mangement System
